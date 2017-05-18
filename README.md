@@ -7,8 +7,8 @@
 ##1주차 과제
 - HTML공부하기
 - 기본적인 태그들 사용하기
-  - [기본태그 사용하기]()
-  - [form태그 사용하기]()
+  - [기본태그 사용기](https://github.com/Aperturedimigo/2017ApertureWebStudy/blob/master/1%EC%A3%BC%EC%B0%A8/Basic.md)
+  - [form태그 사용하기](https://github.com/Aperturedimigo/2017ApertureWebStudy/blob/master/1%EC%A3%BC%EC%B0%A8/Form.md)
 ##2주차 과제
 - CSS공부해오기
 - 기본적인 CSS의 활용
