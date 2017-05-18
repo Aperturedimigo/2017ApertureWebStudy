@@ -12,4 +12,4 @@
 - 단 table태그의 colspan과 rowspan태그 이용하기
 
 ##예시
-- ![1주차 예시](http://url/image.jpg/)
+- ![1주차 예시](https://github.com/Aperturedimigo/2017ApertureWebStudy/blob/master/1%EC%A3%BC%EC%B0%A8/Aperture%EA%B3%BC%EC%A0%9C.png)
